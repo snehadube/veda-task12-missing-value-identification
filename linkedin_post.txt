@@ -1,0 +1,16 @@
+🚀 Task 12 of my Data Analytics Internship at Veda Technology – Missing Value Identification!
+
+📌 What I did:
+✅ Loaded a Titanic dataset (792 rows × 16 columns) using Python & Pandas
+✅ Identified missing values column-by-column using df.isnull().sum()
+✅ Cross-verified the results in Excel using COUNTBLANK()
+✅ Ran extra data quality checks — duplicate rows, duplicate IDs, and placeholder values
+✅ Visualized the findings with a missing-value bar chart
+
+🔍 Key takeaway: Even a dataset that looks "ready" needs a quick missing-data audit before any analysis — because unnoticed nulls (or hidden placeholders like a 0 fare) can quietly bias your results.
+
+This task strengthened my understanding of data quality checks, one of the most important first steps in any data analytics or data science project.
+
+🛠️ Tools: Python | Pandas | Excel | Matplotlib
+
+#VedaTechnology #DataAnalytics #Python #Pandas #Excel #Internship #DataQuality #LearningByDoing

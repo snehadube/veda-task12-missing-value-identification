@@ -1,0 +1,25 @@
+GitHub steps to submit Task 12
+================================
+
+1. Create a new PUBLIC repo on GitHub, e.g.:
+   veda-task12-missing-value-identification
+
+2. In your local task12 folder, run:
+
+   git init
+   git add .
+   git commit -m "Task 12: Missing Value Identification - Veda Technology Data Analytics Internship"
+   git branch -M main
+   git remote add origin https://github.com/<your-username>/veda-task12-missing-value-identification.git
+   git push -u origin main
+
+3. Copy the repo link and submit it in the internship portal
+   (https://vedatechnology.in/intern_dashboard) along with:
+     - GitHub repo link
+     - LinkedIn post link (post linkedin_post.txt content, tag Veda Technology, #VedaTechnology)
+     - Task12_Project_Report.pdf (if a separate upload is asked for)
+
+4. (Optional but recommended, per task guidelines) Deploy is not really
+   applicable here since this is an analysis task, not an app — a clean
+   README + working repo is enough. Skip the live-deployment step for
+   this particular task.
